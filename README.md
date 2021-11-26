@@ -5,7 +5,7 @@ No database is connected, the items of the to-do list are added to an array and 
 The style was created by Angela Yu from the App Brewery bootcamp. 
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1btNqiR-nux4qLjy26sRtuyvbeTUeD-uz" alt="to do list app screenshot">
+  <img src="https://drive.google.com/uc?export=view&id=1btNqiR-nux4qLjy26sRtuyvbeTUeD-uz" alt="to do list app screenshot">
   
 </p>
 
